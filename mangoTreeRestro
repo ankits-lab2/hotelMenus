@@ -1,5 +1,5 @@
 {
-  "indianSpecialVeg": [
+  "Indian Special Veg": [
     { "name": "Veg Rava", "price": "₹310" },
     { "name": "Veg Peshwai", "price": "₹310" },
     { "name": "Veg Ghassi", "price": "₹310" },
@@ -28,7 +28,7 @@
     { "name": "Methi Mutter Malai", "price": "₹300" },
     { "name": "Mango Tree Special Veg", "price": "₹410" }
   ],
-  "indianSpecialNonVeg": [
+  "Indian Special Non Veg": [
     { "name": "Murgh Coriander Handi H/F", "price": "₹550/850" },
     { "name": "Murgh Navabi Handi H/F", "price": "₹550/850" },
     { "name": "Murgh Noorani Handi H/F", "price": "₹550/850" },
@@ -36,7 +36,7 @@
     { "name": "Murgh Chattinad", "price": "₹380" },
     { "name": "Matton Nalli Nihari", "price": "₹460" }
   ],
-  "vegTandoorStarters": [
+  "veg Tandoor Starters": [
     { "name": "Paneer Tikka Dry", "price": "₹275" },
     { "name": "Paneer Banjara Tikka", "price": "₹275" },
     { "name": "Paneer Pahadi Tikka", "price": "₹275" },
