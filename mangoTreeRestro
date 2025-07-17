@@ -51,7 +51,7 @@
     { "name": "Nawabi Sheek Kabab", "price": "₹340" },
     { "name": "Paneer Two in One Tikka", "price": "₹325" }
   ],
-  "indianSnacksStarters": [
+  "Indian Snacks Starters": [
     { "name": "Masala Papad", "price": "₹50" },
     { "name": "Fry Papad", "price": "₹40" },
     { "name": "Roasted Papad", "price": "₹30" },
@@ -66,7 +66,7 @@
     { "name": "Paneer Pakoda", "price": "₹220" },
     { "name": "Mix Veg Pakoda", "price": "₹170" }
   ],
-  "nonVegTandoorStarters": [
+  "Non Veg Tandoor Starters": [
     { "name": "Chicken Tikka Dry", "price": "₹330" },
     { "name": "Chicken Lasuni Tikka", "price": "₹330" },
     { "name": "Chicken Banjara Tikka", "price": "₹330" },
@@ -95,7 +95,7 @@
     { "name": "Mutton Raan", "price": "₹1800" },
     { "name": "Chicken Nizami Kabab", "price": "₹380" }
   ],
-  "vegChineseStarters": [
+  "Veg Chinese Starters": [
     { "name": "Veg Manchurian 65", "price": "₹250" },
     { "name": "Veg Ginger Garlic", "price": "₹300" },
     { "name": "Veg Crispy / Baby Corn Crispy", "price": "₹280" },
@@ -110,7 +110,7 @@
     { "name": "Veg Coriander", "price": "₹280" },
     { "name": "Paneer Thard", "price": "₹330" }
   ],
-  "nonVegChineseStarters": [
+  "Non Veg Chinese Starters": [
     { "name": "Chicken Lolipop", "price": "₹280" },
     { "name": "Chicken Lolipop Masala", "price": "₹320" },
     { "name": "Chicken Lolipop 2 in One", "price": "₹350" },
@@ -125,7 +125,7 @@
     { "name": "Chicken Coriander", "price": "₹340" },
     { "name": "Chicken Thand", "price": "₹380" }
   ],
-  "seafoodSamunderKeLehar": [
+  "Sea Food Samunder KeLehar": [
     { "name": "Pomfret Regular", "price": "₹500" },
     { "name": "Pomfret Two in One", "price": "₹900" },
     { "name": "Pomfret Curry", "price": "₹550" },
@@ -140,7 +140,7 @@
     { "name": "Bombil Regular", "price": "₹300" },
     { "name": "Bombil Two in One", "price": "₹500" }
   ],
-  "coastalFoodMangoSpecialChineseStarters": [
+  "coastal Food Mango Special Chinese Starters": [
     { "name": "Prawns Crispy", "price": "₹480" },
     { "name": "Prabang Salt & Poppot", "price": "₹450" },
     { "name": "Prawns Sesame Hot Garlic", "price": "₹480" },
@@ -153,7 +153,7 @@
     { "name": "Seafood Platter (Mini)", "price": "₹1500" },
     { "name": "Seafood Family Platter", "price": "₹2500" }
   ],
-  "andeKaPunda": [
+  "Ande Ka Punda": [
     { "name": "Egg Masala", "price": "₹200" },
     { "name": "Egg Curry", "price": "₹180" },
     { "name": "Egg Omlet", "price": "₹90" },
@@ -163,7 +163,7 @@
     { "name": "Egg Pakoda", "price": "₹160" },
     { "name": "Egg Biryani", "price": "₹260" }
   ],
-  "muttonMainCourse": [
+  "Mutton Main Course": [
     { "name": "Mango Tree SPL Mutton", "price": "₹360" },
     { "name": "Mutton Malwans F/H", "price": "₹780/440" },
     { "name": "Kala Masala Handi F/H", "price": "₹780/440" },
@@ -177,7 +177,7 @@
     { "name": "Mutton Raan Musalam", "price": "₹2300" },
     { "name": "Mutton Masala", "price": "₹380" }
   ],
-  "chickenMainCourse": [
+  "Chicken Main Course": [
     { "name": "Mango Tree SPL Chicken", "price": "₹490" },
     { "name": "Chicken Malwani Handi F/M", "price": "₹620/350" },
     { "name": "Kala Masala Handi F/H", "price": "₹620/350" },
@@ -192,7 +192,7 @@
     { "name": "Chicken Kallmiri", "price": "₹350" },
     { "name": "Chicken Masala", "price": "₹350" }
   ],
-"dalKiPeshkash": [
+"Dal Ki Peshkash": [
     { "name": "Dal Fry", "price": "₹150" },
     { "name": "Dal Tadka", "price": "₹160" },
     { "name": "Dal Kala Puri", "price": "₹160" },
@@ -201,20 +201,20 @@
     { "name": "Dal Gotala", "price": "₹230" },
     { "name": "Dal Methi", "price": "₹160" }
   ],
-  "chineseMainCourseVeg": [
+  "Chinese Main Course Veg": [
     { "name": "Veg Manchurian Gravy", "price": "₹880" },
     { "name": "Baby Corn Manchurian Gravy", "price": "₹280" },
     { "name": "Paneer Chilly Gravy", "price": "₹290" },
     { "name": "Mushroom Chilly Gravy", "price": "₹250" }
   ],
-  "chineseMainCourseNonVeg": [
+  "chinese Main Course Non Veg": [
     { "name": "Chicken Manchurian Gravy", "price": "₹310" },
     { "name": "Chicken Chring Gravy", "price": "₹310" },
     { "name": "Chicken Black Bean Sauce", "price": "₹360" },
     { "name": "Chicken Hot Garlic Sauce", "price": "₹380" },
     { "name": "Chicken Chilly Garlic Sauce", "price": "₹380" }
   ],
-  "chineseRiceAndNoodles": [
+  "Chinese Rice And Noodles": [
     { "name": "Chicken Fried Rice", "price": "₹280" },
     { "name": "Chicken 8/2 Rice", "price": "₹300" },
     { "name": "Chicken Hakka Noodles", "price": "₹280" },
@@ -225,7 +225,7 @@
     { "name": "Egg S/Z Rice", "price": "₹286" },
     { "name": "Mix Fried Rice", "price": "₹350" }
   ],
-  "basmatiKaKhajana": [
+  "Basmati Ka Khajana": [
     { "name": "Veg Fried Rice", "price": "₹230" },
     { "name": "Veg 5/2 Fried Rice", "price": "₹270" },
     { "name": "Joy Hakka Noodles", "price": "₹230" },
@@ -250,7 +250,7 @@
     { "name": "Ghee Rice", "price": "₹210" },
     { "name": "Peas Palau", "price": "₹190" }
   ],
-  "coldBeverages": [
+  "Cold Beverages": [
     { "name": "Minaral Water", "price": "₹25" },
     { "name": "Soft Drink", "price": "₹30" },
     { "name": "Soda", "price": "₹30" },
