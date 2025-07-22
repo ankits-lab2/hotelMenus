@@ -24,9 +24,8 @@
     { "name": "Kothimbir Kabab", "price": "₹300" },
     { "name": "Cheese Corn Tikki", "price": "₹320" },
     { "name": "Kasturi Tikki", "price": "₹320" },
-    { "name": "Paneer Ghee Rost", "price": "₹330" },
-    { "name": "Paneer Peppar Ghee Rost", "price": "₹280" },
-    { "name": "Paneer Ghee Rost", "price": "₹300" }
+    { "name": "Paneer Ghee Rost", "price": "₹320" },
+    { "name": "Paneer Peppar Ghee Rost", "price": "₹330" }
   ],
   "Indian Snacks Starters": [],
   "Veg Tandoor Starters": [
