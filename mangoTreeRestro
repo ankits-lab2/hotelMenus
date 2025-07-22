@@ -1,7 +1,7 @@
 {
   "Papad, Salad & Raitas": [
     { "name": "Roasted Papad", "price": "₹30" },
-    { "name": "Fried Papad", "price": "₹30" },
+    { "name": "Fried Papad", "price": "₹40" },
     { "name": "Masala Papad", "price": "₹60" },
     { "name": "Green Salad", "price": "₹100" },
     { "name": "Boondi Raita", "price": "₹110" },
