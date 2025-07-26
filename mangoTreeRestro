@@ -1126,5 +1126,1435 @@
         "description": ""
       }
     ]
+  },
+  "nonVeg": {
+    "papadSaladRaita": [
+      {
+        "name": "Roasted Papad",
+        "marathi": "",
+        "price": "₹30",
+        "description": ""
+      },
+      {
+        "name": "Fried Papad",
+        "marathi": "",
+        "price": "₹40",
+        "description": ""
+      },
+      {
+        "name": "Masala Papad",
+        "marathi": "",
+        "price": "₹60",
+        "description": ""
+      },
+      {
+        "name": "Green Salad",
+        "marathi": "",
+        "price": "₹100",
+        "description": ""
+      },
+      {
+        "name": "Boondi Raita",
+        "marathi": "",
+        "price": "₹110",
+        "description": ""
+      },
+      {
+        "name": "Cheese Cherry Pineapple",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Finger Chips",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Chana Garlic Fry",
+        "marathi": "",
+        "price": "₹230",
+        "description": ""
+      },
+      {
+        "name": "Koliwada Garlic Fry",
+        "marathi": "",
+        "price": "₹250",
+        "description": ""
+      },
+      {
+        "name": "Garlic Fry",
+        "marathi": "",
+        "price": "₹200",
+        "description": ""
+      },
+      {
+        "name": "Paneer Pakoda",
+        "marathi": "",
+        "price": "₹220",
+        "description": ""
+      },
+      {
+        "name": "Mix Veg Pakoda",
+        "marathi": "",
+        "price": "₹190",
+        "description": ""
+      },
+      {
+        "name": "Cheese Pakoda",
+        "marathi": "",
+        "price": "₹230",
+        "description": ""
+      }
+    ],
+    "nonVegSoups": [
+      {
+        "name": "Chicken Clear Soup",
+        "marathi": "",
+        "price": "₹140",
+        "description": ""
+      },
+      {
+        "name": "Chicken Manchow",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      },
+      {
+        "name": "Chicken Hot & Sour",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      },
+      {
+        "name": "Chicken Sweet Corn",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      },
+      {
+        "name": "Cream of Chicken",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      },
+      {
+        "name": "Chicken Coriander",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      },
+      {
+        "name": "Sea Food Manchow",
+        "marathi": "",
+        "price": "₹220",
+        "description": ""
+      }
+    ],
+    "chefSpecialSoups": [
+      {
+        "name": "Vietnam Curry Soup",
+        "marathi": "",
+        "price": "₹170",
+        "description": ""
+      },
+      {
+        "name": "Tom Yum Soup",
+        "marathi": "",
+        "price": "₹170",
+        "description": ""
+      },
+      {
+        "name": "Talminam Soup",
+        "marathi": "",
+        "price": "₹170",
+        "description": ""
+      },
+      {
+        "name": "Wantan Soup",
+        "marathi": "",
+        "price": "₹170",
+        "description": ""
+      }
+    ],
+    "indianShorba": [
+      {
+        "name": "Chicken Alni Soup",
+        "marathi": "",
+        "price": "₹120",
+        "description": ""
+      },
+      {
+        "name": "Mutton Alni Soup",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      }
+    ],
+    "nonVegStarters": [
+      {
+        "name": "Chicken Ghee Roast",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Mutton Ghee Roast",
+        "marathi": "",
+        "price": "₹580",
+        "description": ""
+      },
+      {
+        "name": "Prawns Ghee Roast",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Mutton Sukka",
+        "marathi": "",
+        "price": "₹550",
+        "description": ""
+      },
+      {
+        "name": "Chicken Sukka",
+        "marathi": "",
+        "price": "₹330",
+        "description": ""
+      },
+      {
+        "name": "Chicken Magnet",
+        "marathi": "",
+        "price": "₹360",
+        "description": ""
+      },
+      {
+        "name": "Chicken Ukkad",
+        "marathi": "",
+        "price": "₹320",
+        "description": ""
+      },
+      {
+        "name": "Mutton Kharda",
+        "marathi": "",
+        "price": "₹550",
+        "description": ""
+      },
+      {
+        "name": "Mutton Pepper Ghee Roast",
+        "marathi": "",
+        "price": "₹620",
+        "description": ""
+      },
+      {
+        "name": "Chicken Pepper Ghee Roast",
+        "marathi": "",
+        "price": "₹360",
+        "description": ""
+      },
+      {
+        "name": "Prawns Koliwada",
+        "marathi": "",
+        "price": "₹510",
+        "description": ""
+      },
+      {
+        "name": "Chicken Koliwada",
+        "marathi": "",
+        "price": "₹340",
+        "description": ""
+      }
+    ],
+    "nonVegChineseStarters": [
+      {
+        "name": "Chicken Lollipop",
+        "marathi": "",
+        "price": "₹280",
+        "description": ""
+      },
+      {
+        "name": "Chicken Lollipop Masala",
+        "marathi": "",
+        "price": "₹320",
+        "description": ""
+      },
+      {
+        "name": "Chicken Lollipop 2 in 1",
+        "marathi": "",
+        "price": "₹360",
+        "description": ""
+      },
+      {
+        "name": "Chicken 65 / Crispy",
+        "marathi": "",
+        "price": "₹310",
+        "description": ""
+      },
+      {
+        "name": "Chicken Manchurian (Dry)",
+        "marathi": "",
+        "price": "₹300",
+        "description": ""
+      },
+      {
+        "name": "Chicken Manchurian (Gravy)",
+        "marathi": "",
+        "price": "₹330",
+        "description": ""
+      },
+      {
+        "name": "Chicken Chilly (Dry)",
+        "marathi": "",
+        "price": "₹310",
+        "description": ""
+      },
+      {
+        "name": "Chicken Chilly (Gravy)",
+        "marathi": "",
+        "price": "₹340",
+        "description": ""
+      },
+      {
+        "name": "Chicken Satay",
+        "marathi": "",
+        "price": "₹360",
+        "description": ""
+      },
+      {
+        "name": "Chicken Spring Roll",
+        "marathi": "",
+        "price": "₹330",
+        "description": ""
+      },
+      {
+        "name": "Chicken Hot Pan",
+        "marathi": "",
+        "price": "₹320",
+        "description": ""
+      }
+    ],
+    "chefSpecialChineseStarters": [
+      {
+        "name": "Five Spice Chicken",
+        "marathi": "",
+        "price": "₹390",
+        "description": ""
+      },
+      {
+        "name": "Thai Chicken Satay",
+        "marathi": "",
+        "price": "₹390",
+        "description": ""
+      },
+      {
+        "name": "Prawns Golden Fry",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Chicken Peri Peri",
+        "marathi": "",
+        "price": "₹390",
+        "description": ""
+      }
+    ],
+    "nonVegTandoorStarters": [
+      {
+        "name": "Chicken Tikka Dry",
+        "marathi": "",
+        "price": "₹370",
+        "description": ""
+      },
+      {
+        "name": "Chicken Lasuni Tikka",
+        "marathi": "",
+        "price": "₹390",
+        "description": ""
+      },
+      {
+        "name": "Chicken Banjara Tikka",
+        "marathi": "",
+        "price": "₹390",
+        "description": ""
+      },
+      {
+        "name": "Chicken Angara Kabab",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Malai Tikka",
+        "marathi": "",
+        "price": "₹410",
+        "description": ""
+      },
+      {
+        "name": "Chicken Nawabi Sheekh Kabab",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      },
+      {
+        "name": "Tangdi Kabab (Kalimiri)",
+        "marathi": "",
+        "price": "₹450",
+        "description": ""
+      },
+      {
+        "name": "Tangdi Kabab (Irani)",
+        "marathi": "",
+        "price": "₹450",
+        "description": ""
+      },
+      {
+        "name": "Tangdi Kabab (Afgani)",
+        "marathi": "",
+        "price": "₹450",
+        "description": ""
+      },
+      {
+        "name": "Tangdi Kabab (Kasturi)",
+        "marathi": "",
+        "price": "₹450",
+        "description": ""
+      },
+      {
+        "name": "Tandoori Chicken (Full)",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      },
+      {
+        "name": "Tandoori Chicken (Half)",
+        "marathi": "",
+        "price": "₹320",
+        "description": ""
+      },
+      {
+        "name": "Chicken Raan",
+        "marathi": "",
+        "price": "₹650",
+        "description": ""
+      },
+      {
+        "name": "Chicken Family Platter",
+        "marathi": "",
+        "price": "₹1450",
+        "description": ""
+      },
+      {
+        "name": "Chicken Mini Platter",
+        "marathi": "",
+        "price": "₹800",
+        "description": ""
+      },
+      {
+        "name": "Tandoori Lollipop",
+        "marathi": "",
+        "price": "₹350",
+        "description": ""
+      },
+      {
+        "name": "Pahadi Tandoori Chicken (Full)",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Pahadi Tandoori Chicken (Half)",
+        "marathi": "",
+        "price": "₹360",
+        "description": ""
+      },
+      {
+        "name": "Afghani Tandoori Chicken (Full)",
+        "marathi": "",
+        "price": "₹580",
+        "description": ""
+      },
+      {
+        "name": "Afghani Tandoori Chicken (Half)",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Pomfret Tandoor",
+        "marathi": "",
+        "price": "APS",
+        "description": ""
+      },
+      {
+        "name": "Surmai Tandoor (Baby)",
+        "marathi": "",
+        "price": "APS",
+        "description": ""
+      },
+      {
+        "name": "Chicken Cotiun Cheese Kabab",
+        "marathi": "",
+        "price": "₹480",
+        "description": ""
+      }
+    ],
+    "chefSpecialTandoorStarters": [
+      {
+        "name": "Chicken Kakori Seekh Kabab",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      },
+      {
+        "name": "Chicken Galauti Kabab",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      },
+      {
+        "name": "Chicken Amritsari Kabab",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      },
+      {
+        "name": "Chicken Angar Bedgi Kabab",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      }
+    ],
+    "seafoodSamunderKeLehar": [
+      {
+        "name": "Prawns (Tandoor)",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      },
+      {
+        "name": "Prawns (Tawa)",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      },
+      {
+        "name": "Prawns (Koliwada)",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      },
+      {
+        "name": "Prawns (Rawa Fry)",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      },
+      {
+        "name": "Prawns Two in One",
+        "marathi": "",
+        "price": "₹580",
+        "description": ""
+      },
+      {
+        "name": "Prawns Curry (Goan)",
+        "marathi": "",
+        "price": "₹550",
+        "description": ""
+      },
+      {
+        "name": "Prawns Curry (Malwani)",
+        "marathi": "",
+        "price": "₹550",
+        "description": ""
+      },
+      {
+        "name": "Bangda (Tandoor)",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Bangda (Tawa)",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Bangda (Koliwada)",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Bangda (Rawa Fry)",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Bangda Curry (Goan)",
+        "marathi": "",
+        "price": "₹410",
+        "description": ""
+      },
+      {
+        "name": "Bangda Curry (Malwani)",
+        "marathi": "",
+        "price": "₹410",
+        "description": ""
+      },
+      {
+        "name": "Bangda Curry (Maratha)",
+        "marathi": "",
+        "price": "₹410",
+        "description": ""
+      },
+      {
+        "name": "Bombil (Rawa Fry)",
+        "marathi": "",
+        "price": "₹300",
+        "description": ""
+      },
+      {
+        "name": "Bombil (Koliwada)",
+        "marathi": "",
+        "price": "₹300",
+        "description": ""
+      },
+      {
+        "name": "Bombil Two in One",
+        "marathi": "",
+        "price": "₹500",
+        "description": ""
+      },
+      {
+        "name": "Pomfret (Tandoor)",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Pomfret (Tawa)",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Pomfret (Rawa Fry)",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Pomfret (Koliwada)",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Pomfret Two in One",
+        "marathi": "",
+        "price": "₹950",
+        "description": ""
+      },
+      {
+        "name": "Pomfret Curry (Goan)",
+        "marathi": "",
+        "price": "₹600",
+        "description": ""
+      },
+      {
+        "name": "Pomfret Curry (Malwani)",
+        "marathi": "",
+        "price": "₹600",
+        "description": ""
+      },
+      {
+        "name": "Surmai – Tawa",
+        "marathi": "",
+        "price": "₹600",
+        "description": ""
+      },
+      {
+        "name": "Surmai – Rawa",
+        "marathi": "",
+        "price": "₹600",
+        "description": ""
+      },
+      {
+        "name": "Surmai Two in One",
+        "marathi": "",
+        "price": "₹650",
+        "description": ""
+      },
+      {
+        "name": "Surmai Curry (Goan)",
+        "marathi": "",
+        "price": "₹500",
+        "description": ""
+      },
+      {
+        "name": "Surmai Curry (Malwani)",
+        "marathi": "",
+        "price": "₹600",
+        "description": ""
+      },
+      {
+        "name": "Baby Surmai (Tawa)",
+        "marathi": "",
+        "price": "₹850",
+        "description": ""
+      },
+      {
+        "name": "Baby Surmai (Rawa)",
+        "marathi": "",
+        "price": "₹850",
+        "description": ""
+      },
+      {
+        "name": "Baby Surmai (Koliwada)",
+        "marathi": "",
+        "price": "₹850",
+        "description": ""
+      }
+    ],
+    "coastalMangoSpecialChineseStarters": [
+      {
+        "name": "Prawns Crispy",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Prawns Butter Garlic",
+        "marathi": "",
+        "price": "₹530",
+        "description": ""
+      },
+      {
+        "name": "Prawns Kurkure",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      }
+    ],
+    "indianSpecialNonVeg": [
+      {
+        "name": "Murgh Coriander Handi (Half)",
+        "marathi": "",
+        "price": "₹550",
+        "description": ""
+      },
+      {
+        "name": "Murgh Coriander Handi (Full)",
+        "marathi": "",
+        "price": "₹850",
+        "description": ""
+      },
+      {
+        "name": "Murgh Navabi Handi (Half)",
+        "marathi": "",
+        "price": "₹570",
+        "description": ""
+      },
+      {
+        "name": "Murgh Navabi Handi (Full)",
+        "marathi": "",
+        "price": "₹880",
+        "description": ""
+      },
+      {
+        "name": "Murgh Noorani Handi (Half)",
+        "marathi": "",
+        "price": "₹560",
+        "description": ""
+      },
+      {
+        "name": "Murgh Noorani Handi (Full)",
+        "marathi": "",
+        "price": "₹870",
+        "description": ""
+      },
+      {
+        "name": "Mutton Noorani Handi (Half)",
+        "marathi": "",
+        "price": "₹650",
+        "description": ""
+      },
+      {
+        "name": "Mutton Noorani Handi (Full)",
+        "marathi": "",
+        "price": "₹1050",
+        "description": ""
+      },
+      {
+        "name": "Murgh Chettinad",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      }
+    ],
+    "eggCornerAndeKaFanda": [
+      {
+        "name": "Egg Masala / Curry",
+        "marathi": "",
+        "price": "₹210",
+        "description": ""
+      },
+      {
+        "name": "Egg Omelette",
+        "marathi": "",
+        "price": "₹130",
+        "description": ""
+      },
+      {
+        "name": "Egg Bhurji",
+        "marathi": "",
+        "price": "₹100",
+        "description": ""
+      },
+      {
+        "name": "Egg Half Fry",
+        "marathi": "",
+        "price": "₹90",
+        "description": ""
+      },
+      {
+        "name": "Boiled Egg",
+        "marathi": "",
+        "price": "₹80",
+        "description": ""
+      },
+      {
+        "name": "Egg Pakoda",
+        "marathi": "",
+        "price": "₹160",
+        "description": ""
+      },
+      {
+        "name": "Egg Biryani",
+        "marathi": "",
+        "price": "₹270",
+        "description": ""
+      }
+    ],
+    "chickenMainCourse": [
+      {
+        "name": "Mango Tree Special Chicken",
+        "marathi": "",
+        "price": "₹610",
+        "description": ""
+      },
+      {
+        "name": "Chicken Malwani Handi (Full)",
+        "marathi": "",
+        "price": "₹660",
+        "description": ""
+      },
+      {
+        "name": "Chicken Malwani Handi (Half)",
+        "marathi": "",
+        "price": "₹390",
+        "description": ""
+      },
+      {
+        "name": "Chicken Kala Masala Handi (Full)",
+        "marathi": "",
+        "price": "₹690",
+        "description": ""
+      },
+      {
+        "name": "Chicken Kala Masala Handi (Half)",
+        "marathi": "",
+        "price": "₹410",
+        "description": ""
+      },
+      {
+        "name": "Chicken Maratha Handi (Full)",
+        "marathi": "",
+        "price": "₹670",
+        "description": ""
+      },
+      {
+        "name": "Chicken Maratha Handi (Half)",
+        "marathi": "",
+        "price": "₹360",
+        "description": ""
+      },
+      {
+        "name": "Chicken Handi (Full)",
+        "marathi": "",
+        "price": "₹660",
+        "description": ""
+      },
+      {
+        "name": "Chicken Handi (Half)",
+        "marathi": "",
+        "price": "₹340",
+        "description": ""
+      },
+      {
+        "name": "Butter Chicken (Full)",
+        "marathi": "",
+        "price": "₹750",
+        "description": ""
+      },
+      {
+        "name": "Butter Chicken (Half)",
+        "marathi": "",
+        "price": "₹450",
+        "description": ""
+      },
+      {
+        "name": "Murgh Musallam (Full)",
+        "marathi": "",
+        "price": "₹880",
+        "description": ""
+      },
+      {
+        "name": "Murgh Musallam (Half)",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      },
+      {
+        "name": "Chicken Rara",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      },
+      {
+        "name": "Chicken Lahori",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Kalimiri",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Masala",
+        "marathi": "",
+        "price": "₹370",
+        "description": ""
+      },
+      {
+        "name": "Chicken Khastna Masala",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Basket",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Chatpata",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Rasili Boti",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Cooker Chicken Curry",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Mataka",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      }
+    ],
+    "muttonMainCourse": [
+      {
+        "name": "Mango Special Mutton",
+        "marathi": "",
+        "price": "₹780",
+        "description": ""
+      },
+      {
+        "name": "Mutton Malwani (Half)",
+        "marathi": "",
+        "price": "₹650",
+        "description": ""
+      },
+      {
+        "name": "Mutton Malwani (Full)",
+        "marathi": "",
+        "price": "₹1050",
+        "description": ""
+      },
+      {
+        "name": "Mutton Kala Masala Handi (Half)",
+        "marathi": "",
+        "price": "₹650",
+        "description": ""
+      },
+      {
+        "name": "Mutton Kala Masala Handi (Full)",
+        "marathi": "",
+        "price": "₹1050",
+        "description": ""
+      },
+      {
+        "name": "Mutton Maratha (Half)",
+        "marathi": "",
+        "price": "₹650",
+        "description": ""
+      },
+      {
+        "name": "Mutton Maratha (Full)",
+        "marathi": "",
+        "price": "₹1050",
+        "description": ""
+      },
+      {
+        "name": "Mutton Handi (Half)",
+        "marathi": "",
+        "price": "₹650",
+        "description": ""
+      },
+      {
+        "name": "Mutton Handi (Full)",
+        "marathi": "",
+        "price": "₹1050",
+        "description": ""
+      },
+      {
+        "name": "Mutton Rogan Josh",
+        "marathi": "",
+        "price": "₹620",
+        "description": ""
+      },
+      {
+        "name": "Mutton Rara Malala",
+        "marathi": "",
+        "price": "₹620",
+        "description": ""
+      },
+      {
+        "name": "Mutton Masala",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      }
+    ],
+    "Basmati ka khajana": [
+      {
+        "name": "Chicken Dum Biryani",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Chicken Matka Dum Biryani",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      },
+      {
+        "name": "Chicken Tikka Biryani",
+        "marathi": "",
+        "price": "₹430",
+        "description": ""
+      },
+      {
+        "name": "Chicken Hyderabadi Biryani",
+        "marathi": "",
+        "price": "₹400",
+        "description": ""
+      },
+      {
+        "name": "Chicken Tandoori Biryani (Full)",
+        "marathi": "",
+        "price": "₹790",
+        "description": ""
+      },
+      {
+        "name": "Chicken Tandoori Biryani (Half)",
+        "marathi": "",
+        "price": "₹500",
+        "description": ""
+      },
+      {
+        "name": "Mutton Dum Biryani",
+        "marathi": "",
+        "price": "₹520",
+        "description": ""
+      },
+      {
+        "name": "Mutton Matka Dum Biryani",
+        "marathi": "",
+        "price": "₹580",
+        "description": ""
+      },
+      {
+        "name": "Mutton Hyderabadi Biryani",
+        "marathi": "",
+        "price": "₹550",
+        "description": ""
+      },
+      {
+        "name": "Mutton Bamboo Biryani",
+        "marathi": "",
+        "price": "₹620",
+        "description": ""
+      },
+      {
+        "name": "Chicken Bamboo Biryani",
+        "marathi": "",
+        "price": "₹470",
+        "description": ""
+      },
+      {
+        "name": "Prawns Biryani",
+        "marathi": "",
+        "price": "₹550",
+        "description": ""
+      },
+      {
+        "name": "Surmai Biryani",
+        "marathi": "",
+        "price": "₹600",
+        "description": ""
+      },
+      {
+        "name": "Steam Rice (Half)",
+        "marathi": "",
+        "price": "₹80",
+        "description": ""
+      },
+      {
+        "name": "Steam Rice (Full)",
+        "marathi": "",
+        "price": "₹120",
+        "description": ""
+      },
+      {
+        "name": "Jeera Rice (Half)",
+        "marathi": "",
+        "price": "₹100",
+        "description": ""
+      },
+      {
+        "name": "Jeera Rice (Full)",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      }
+    ],
+    "chineseRiceNoodles": [
+      {
+        "name": "Chicken Fried Rice",
+        "marathi": "",
+        "price": "₹280",
+        "description": ""
+      },
+      {
+        "name": "Chicken Schezwan Rice",
+        "marathi": "",
+        "price": "₹300",
+        "description": ""
+      },
+      {
+        "name": "Chicken Hakka Noodles",
+        "marathi": "",
+        "price": "₹280",
+        "description": ""
+      },
+      {
+        "name": "Chicken Schezwan Noodles",
+        "marathi": "",
+        "price": "₹300",
+        "description": ""
+      },
+      {
+        "name": "Chicken Triple Schezwan Rice",
+        "marathi": "",
+        "price": "₹360",
+        "description": ""
+      },
+      {
+        "name": "Egg Fried Rice",
+        "marathi": "",
+        "price": "₹240",
+        "description": ""
+      },
+      {
+        "name": "Egg Schezwan Rice",
+        "marathi": "",
+        "price": "₹280",
+        "description": ""
+      },
+      {
+        "name": "Hot Korean Noodles",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      },
+      {
+        "name": "Fortune Rice",
+        "marathi": "",
+        "price": "₹380",
+        "description": ""
+      }
+    ],
+    "rotiNaanParatha": [
+      {
+        "name": "Roti",
+        "marathi": "",
+        "price": "₹30",
+        "description": ""
+      },
+      {
+        "name": "Wheat Roti",
+        "marathi": "",
+        "price": "₹30",
+        "description": ""
+      },
+      {
+        "name": "Butter Roti",
+        "marathi": "",
+        "price": "₹40",
+        "description": ""
+      },
+      {
+        "name": "Chapati",
+        "marathi": "",
+        "price": "₹20",
+        "description": ""
+      },
+      {
+        "name": "Butter Chapati",
+        "marathi": "",
+        "price": "₹25",
+        "description": ""
+      },
+      {
+        "name": "Naan",
+        "marathi": "",
+        "price": "₹60",
+        "description": ""
+      },
+      {
+        "name": "Butter Naan",
+        "marathi": "",
+        "price": "₹80",
+        "description": ""
+      },
+      {
+        "name": "Garlic Naan",
+        "marathi": "",
+        "price": "₹120",
+        "description": ""
+      },
+      {
+        "name": "Butter Garlic Naan",
+        "marathi": "",
+        "price": "₹140",
+        "description": ""
+      },
+      {
+        "name": "Cheese Naan",
+        "marathi": "",
+        "price": "₹110",
+        "description": ""
+      },
+      {
+        "name": "Butter Cheese Naan",
+        "marathi": "",
+        "price": "₹130",
+        "description": ""
+      },
+      {
+        "name": "Cheese Garlic Naan",
+        "marathi": "",
+        "price": "₹160",
+        "description": ""
+      },
+      {
+        "name": "Butter Cheese Garlic Naan",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Garlic Paratha",
+        "marathi": "",
+        "price": "₹160",
+        "description": ""
+      },
+      {
+        "name": "Butter Garlic Paratha",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Aloo Paratha",
+        "marathi": "",
+        "price": "₹160",
+        "description": ""
+      },
+      {
+        "name": "Butter Aloo Paratha",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Methi Paratha",
+        "marathi": "",
+        "price": "₹160",
+        "description": ""
+      },
+      {
+        "name": "Butter Methi Paratha",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Gobi Paratha",
+        "marathi": "",
+        "price": "₹160",
+        "description": ""
+      },
+      {
+        "name": "Butter Gobi Paratha",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Pudina Paratha",
+        "marathi": "",
+        "price": "₹160",
+        "description": ""
+      },
+      {
+        "name": "Butter Pudina Paratha",
+        "marathi": "",
+        "price": "₹180",
+        "description": ""
+      },
+      {
+        "name": "Wheat Lacha Paratha",
+        "marathi": "",
+        "price": "₹70",
+        "description": ""
+      },
+      {
+        "name": "Butter Wheat Lacha Paratha",
+        "marathi": "",
+        "price": "₹80",
+        "description": ""
+      },
+      {
+        "name": "Bhakari",
+        "marathi": "",
+        "price": "₹40",
+        "description": ""
+      },
+      {
+        "name": "Butter Bhakari",
+        "marathi": "",
+        "price": "₹50",
+        "description": ""
+      }
+    ],
+    "coldBeverages": [
+      {
+        "name": "Masala Buttermilk",
+        "marathi": "",
+        "price": "₹75",
+        "description": ""
+      },
+      {
+        "name": "Fresh Lime Soda",
+        "marathi": "",
+        "price": "₹60",
+        "description": ""
+      },
+      {
+        "name": "Fresh Lime Water",
+        "marathi": "",
+        "price": "₹50",
+        "description": ""
+      }
+    ],
+    "mastani": [
+      {
+        "name": "Mango Mastani",
+        "marathi": "",
+        "price": "₹240",
+        "description": ""
+      },
+      {
+        "name": "Dry Fruit Mastani",
+        "marathi": "",
+        "price": "₹260",
+        "description": ""
+      },
+      {
+        "name": "Chocolate Badam Mastani",
+        "marathi": "",
+        "price": "₹240",
+        "description": ""
+      },
+      {
+        "name": "Mango Tree Special Mastani",
+        "marathi": "",
+        "price": "₹280",
+        "description": ""
+      }
+    ],
+    "iceCreamAndDesserts": [
+      {
+        "name": "Ice Cream (Vanilla / Mango / Strawberry)",
+        "marathi": "",
+        "price": "₹90",
+        "description": ""
+      },
+      {
+        "name": "Ice Cream (Pista / Butterscotch / Kesar Pista)",
+        "marathi": "",
+        "price": "₹100",
+        "description": ""
+      },
+      {
+        "name": "Vanilla Ice Cream with Hot Chocolate",
+        "marathi": "",
+        "price": "₹150",
+        "description": ""
+      },
+      {
+        "name": "Sizzling Chocolate Brownie with Ice Cream",
+        "marathi": "",
+        "price": "₹220",
+        "description": ""
+      },
+      {
+        "name": "Matka Kulfi",
+        "marathi": "",
+        "price": "₹90",
+        "description": ""
+      }
+    ]
   }
 }
