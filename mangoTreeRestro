@@ -1,1131 +1,243 @@
 {
   "veg": {
-    "papadSaladRaita": [
-      {
-        "name": "Roasted Papad",
-        "marathi": "",
-        "price": "₹30",
-        "description": ""
-      },
-      {
-        "name": "Fried Papad",
-        "marathi": "",
-        "price": "₹30",
-        "description": ""
-      },
-      {
-        "name": "Masala Papad",
-        "marathi": "",
-        "price": "₹40",
-        "description": ""
-      },
-      {
-        "name": "Green Salad",
-        "marathi": "",
-        "price": "₹60",
-        "description": ""
-      },
-      {
-        "name": "Boondi Raita",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Vegetable Raita",
-        "marathi": "",
-        "price": "₹110",
-        "description": ""
-      },
-      {
-        "name": "Pineapple Raita",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Curd Bowl",
-        "marathi": "",
-        "price": "₹120",
-        "description": ""
-      }
-    ],
-    "vegStarters": [
-      {
-        "name": "Paneer Pakoda",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Mix Veg Pakoda",
-        "marathi": "",
-        "price": "₹120",
-        "description": ""
-      },
-      {
-        "name": "Cheese Pakoda",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Cashew Nuts Fry",
-        "marathi": "",
-        "price": "₹180",
-        "description": ""
-      },
-      {
-        "name": "Green Peas Jeera Garlic Butter Fry",
-        "marathi": "",
-        "price": "₹180",
-        "description": ""
-      },
-      {
-        "name": "Chana Garlic Fry",
-        "marathi": "",
-        "price": "₹180",
-        "description": ""
-      },
-      {
-        "name": "Koliwada Garlic Fry",
-        "marathi": "",
-        "price": "₹230",
-        "description": ""
-      },
-      {
-        "name": "Cheese Cherry Pineapple",
-        "marathi": "",
-        "price": "₹250",
-        "description": ""
-      },
-      {
-        "name": "Finger Chips",
-        "marathi": "",
-        "price": "₹200",
-        "description": ""
-      }
-    ],
-    "vegTandoorStarters": [
-      {
-        "name": "Hara Bhara Kabab",
-        "marathi": "",
-        "price": "₹210",
-        "description": ""
-      },
-      {
-        "name": "Stuffed Mushroom",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Veg Seekh Kabab",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Mushroom Kalimiri",
-        "marathi": "",
-        "price": "₹270",
-        "description": ""
-      },
-      {
-        "name": "Matka Paneer",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Veg Platter",
-        "marathi": "",
-        "price": "₹900",
-        "description": ""
-      },
-      {
-        "name": "Paneer Tikka Dry",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Paneer Banjara Tikka",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      }
-    ],
-    "vegSoups": [
-      {
-        "name": "Veg Manchow Soup",
-        "marathi": "",
-        "price": "₹130",
-        "description": ""
-      },
-      {
-        "name": "Veg Hot & Sour",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "Veg Sweet Corn",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "Lemon Coriander",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "Veg Clear",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "Cream Tomato Soup",
-        "marathi": "",
-        "price": "₹130",
-        "description": ""
-      },
-      {
-        "name": "Cream Of Veg",
-        "marathi": "",
-        "price": "₹130",
-        "description": ""
-      },
-      {
-        "name": "Cream Of Mushroom",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "Cream Of Palak",
-        "marathi": "",
-        "price": "₹130",
-        "description": ""
-      },
-      {
-        "name": "Wonton Hot Soup",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "Lung Fung Soup",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "French Onion Soup",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      },
-      {
-        "name": "Minestrone Soup",
-        "marathi": "",
-        "price": "₹140",
-        "description": ""
-      }
-    ],
-    "chineseStarters": [
-      {
-        "name": "Hot Pan Veg",
-        "marathi": "",
-        "price": "₹270",
-        "description": ""
-      },
-      {
-        "name": "Hot Pan Paneer",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Hot Pan Mushroom",
-        "marathi": "",
-        "price": "₹310",
-        "description": ""
-      },
-      {
-        "name": "Hot Pan Baby Corn",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      },
-      {
-        "name": "Veg Spring Roll",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Paneer Spring Roll",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Veg Crispy",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Veg 65",
-        "marathi": "",
-        "price": "₹250",
-        "description": ""
-      },
-      {
-        "name": "Paneer 65",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Paneer Satay",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Paneer Crispy",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Veg Saki",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Veg Manchurian (Dry)",
-        "marathi": "",
-        "price": "₹250",
-        "description": ""
-      },
-      {
-        "name": "Veg Manchurian (Gravy)",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Paneer Manchurian (Dry)",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Paneer Manchurian (Gravy)",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Gobi Manchurian (Dry)",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Gobi Manchurian (Gravy)",
-        "marathi": "",
-        "price": "₹250",
-        "description": ""
-      },
-      {
-        "name": "Paneer Chilli (Dry)",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Paneer Chilli (Gravy)",
-        "marathi": "",
-        "price": "₹290",
-        "description": ""
-      },
-      {
-        "name": "Chinese Bhel",
-        "marathi": "",
-        "price": "₹230",
-        "description": ""
-      },
-      {
-        "name": "Chinese Platter",
-        "marathi": "",
-        "price": "₹800",
-        "description": ""
-      },
-      {
-        "name": "Mushroom Manchurian (Dry)",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Mushroom Chilly",
-        "marathi": "",
-        "price": "₹310",
-        "description": ""
-      },
-      {
-        "name": "Paneer Thread",
-        "marathi": "",
-        "price": "₹360",
-        "description": ""
-      },
-      {
-        "name": "Veg Coriander",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Paneer Coriander",
-        "marathi": "",
-        "price": "₹350",
-        "description": ""
-      }
-    ],
-    "chineseNoodlesAndRice": [
-      {
-        "name": "Veg Hakka Noodles",
-        "marathi": "",
-        "price": "₹220",
-        "description": ""
-      },
-      {
-        "name": "Shanghai Noodles",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Chilli Garlic Noodles",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Schezwan Noodles",
-        "marathi": "",
-        "price": "₹230",
-        "description": ""
-      },
-      {
-        "name": "Schezwan Rice",
-        "marathi": "",
-        "price": "₹250",
-        "description": ""
-      },
-      {
-        "name": "Triple Schezwan Noodles",
-        "marathi": "",
-        "price": "₹270",
-        "description": ""
-      },
-      {
-        "name": "Triple Schezwan Rice",
-        "marathi": "",
-        "price": "₹270",
-        "description": ""
-      },
-      {
-        "name": "Veg Fried Rice",
-        "marathi": "",
-        "price": "₹220",
-        "description": ""
-      },
-      {
-        "name": "Mushroom Fried Rice",
-        "marathi": "",
-        "price": "₹270",
-        "description": ""
-      }
-    ],
-    "mangoTreeSpecialVeg": [
-      {
-        "name": "Mango Tree Special Veg",
-        "marathi": "",
-        "price": "₹360",
-        "description": ""
-      },
-      {
-        "name": "Veg Chingari",
-        "marathi": "",
-        "price": "₹290",
-        "description": ""
-      },
-      {
-        "name": "Aloo Khusnuma",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Cheese Angoori",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Veg 65 Masala",
-        "marathi": "",
-        "price": "₹290",
-        "description": ""
-      },
-      {
-        "name": "Veg Laziz",
-        "marathi": "",
-        "price": "₹310",
-        "description": ""
-      },
-      {
-        "name": "Paneer Veg Lahori",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      },
-      {
-        "name": "Veg Mumtaj",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Veg Shubnam",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Chak De Veg",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Subzi Dhoom",
-        "marathi": "",
-        "price": "₹310",
-        "description": ""
-      },
-      {
-        "name": "Paneer Stick Masala",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Paneer Ka Shola",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Alu Sultani Curry",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Balti Achari Veg Subji",
-        "marathi": "",
-        "price": "₹290",
-        "description": ""
-      },
-      {
-        "name": "Pahadi Madira Veg",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Kukkad",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      }
-    ],
-    "sweetSubji": [
-      {
-        "name": "Malai Kofta",
-        "marathi": "",
-        "price": "₹310",
-        "description": ""
-      },
-      {
-        "name": "Kaju Curry",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      }
-    ],
-    "dalItems": [
-      {
-        "name": "Dal Fry",
-        "marathi": "",
-        "price": "₹160",
-        "description": ""
-      },
-      {
-        "name": "Kolhapuri Dal",
-        "marathi": "",
-        "price": "₹170",
-        "description": ""
-      },
-      {
-        "name": "Dal Tadka",
-        "marathi": "",
-        "price": "₹175",
-        "description": ""
-      },
-      {
-        "name": "Palak Dal",
-        "marathi": "",
-        "price": "₹170",
-        "description": ""
-      }
-    ],
-    "subjiKiPeshkash": [
-      {
-        "name": "Aloo Gobi Masala",
-        "marathi": "",
-        "price": "₹250",
-        "description": ""
-      },
-      {
-        "name": "Veg Maratha",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Mushroom Handi",
-        "marathi": "",
-        "price": "₹290",
-        "description": ""
-      },
-      {
-        "name": "Mushroom Masala",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Veg Handi",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Veg Kofta",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Veg Kolhapuri",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Veg Bhoona",
-        "marathi": "",
-        "price": "₹310",
-        "description": ""
-      },
-      {
-        "name": "Veg Jalfrezi",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      },
-      {
-        "name": "Kaju Masala",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Veg Chili Mili",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      },
-      {
-        "name": "Veg Patiala",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Queen of Veg",
-        "marathi": "",
-        "price": "₹290",
-        "description": ""
-      },
-      {
-        "name": "Veg Diwani Handi",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Veg Tawa Punjabi",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      }
-    ],
-    "paneerSpecialities": [
-      {
-        "name": "Paneer Masala",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Paneer Butter Masala",
-        "marathi": "",
-        "price": "₹350",
-        "description": ""
-      },
-      {
-        "name": "Paneer Tikka Masala",
-        "marathi": "",
-        "price": "₹350",
-        "description": ""
-      },
-      {
-        "name": "Paneer Kadhai",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      },
-      {
-        "name": "Paneer Multani",
-        "marathi": "",
-        "price": "₹300",
-        "description": ""
-      },
-      {
-        "name": "Paneer Patiala",
-        "marathi": "",
-        "price": "₹320",
-        "description": ""
-      },
-      {
-        "name": "Paneer Chatpata",
-        "marathi": "",
-        "price": "₹330",
-        "description": ""
-      },
-      {
-        "name": "Paneer Chingari",
-        "marathi": "",
-        "price": "₹340",
-        "description": ""
-      },
-      {
-        "name": "Paneer Khurchan",
-        "marathi": "",
-        "price": "₹360",
-        "description": ""
-      },
-      {
-        "name": "Paneer Aflatoon",
-        "marathi": "",
-        "price": "₹350",
-        "description": ""
-      },
-      {
-        "name": "Multi Layer Paneer Masala",
-        "marathi": "",
-        "price": "₹350",
-        "description": ""
-      },
-      {
-        "name": "Paneer Bhurji",
-        "marathi": "",
-        "price": "₹350",
-        "description": ""
-      }
-    ],
-    "rotiNaanParatha": [
-      {
-        "name": "Roti",
-        "marathi": "",
-        "price": "₹30",
-        "description": ""
-      },
-      {
-        "name": "Wheat Roti",
-        "marathi": "",
-        "price": "₹40",
-        "description": ""
-      },
-      {
-        "name": "Butter Roti",
-        "marathi": "",
-        "price": "₹20",
-        "description": ""
-      },
-      {
-        "name": "Chapati",
-        "marathi": "",
-        "price": "₹25",
-        "description": ""
-      },
-      {
-        "name": "Butter Chapati",
-        "marathi": "",
-        "price": "₹60",
-        "description": ""
-      },
-      {
-        "name": "Missi Roti",
-        "marathi": "",
-        "price": "₹60",
-        "description": ""
-      },
-      {
-        "name": "Naan",
-        "marathi": "",
-        "price": "₹80",
-        "description": ""
-      },
-      {
-        "name": "Butter Naan",
-        "marathi": "",
-        "price": "₹120",
-        "description": ""
-      },
-      {
-        "name": "Garlic Naan",
-        "marathi": "",
-        "price": "₹110",
-        "description": ""
-      },
-      {
-        "name": "Cheese Naan",
-        "marathi": "",
-        "price": "₹160",
-        "description": ""
-      },
-      {
-        "name": "Cheese Garlic Naan",
-        "marathi": "",
-        "price": "₹60",
-        "description": ""
-      },
-      {
-        "name": "Kulcha Plain",
-        "marathi": "",
-        "price": "₹70",
-        "description": ""
-      },
-      {
-        "name": "Kulcha Butter",
-        "marathi": "",
-        "price": "₹80",
-        "description": ""
-      },
-      {
-        "name": "Garlic Paratha",
-        "marathi": "",
-        "price": "₹120",
-        "description": ""
-      },
-      {
-        "name": "Aloo Paratha",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Methi Paratha",
-        "marathi": "",
-        "price": "₹150",
-        "description": ""
-      },
-      {
-        "name": "Gobi Paratha",
-        "marathi": "",
-        "price": "₹200",
-        "description": ""
-      },
-      {
-        "name": "Pudina Paratha",
-        "marathi": "",
-        "price": "₹190",
-        "description": ""
-      },
-      {
-        "name": "Wheat Lachha Paratha",
-        "marathi": "",
-        "price": "₹200",
-        "description": ""
-      },
-      {
-        "name": "Butter Wheat Lachha Paratha",
-        "marathi": "",
-        "price": "₹190",
-        "description": ""
-      },
-      {
-        "name": "Basket Roti",
-        "marathi": "",
-        "price": "₹200",
-        "description": ""
-      },
-      {
-        "name": "Bhakri",
-        "marathi": "",
-        "price": "₹90",
-        "description": ""
-      },
-      {
-        "name": "Butter Bhakri",
-        "marathi": "",
-        "price": "₹90",
-        "description": ""
-      }
-    ],
-    "ricePulavBiryani": [
-      {
-        "name": "Matka Dum Biryani",
-        "marathi": "",
-        "price": "₹330",
-        "description": "Rich aromatic biryani made in ghee & served in a matka for authentic taste"
-      },
-      {
-        "name": "Veg Biryani",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Dal Khichdi",
-        "marathi": "",
-        "price": "₹220",
-        "description": ""
-      },
-      {
-        "name": "Dal Khichdi Tadka",
-        "marathi": "",
-        "price": "₹230",
-        "description": ""
-      },
-      {
-        "name": "Veg Pulao",
-        "marathi": "",
-        "price": "₹220",
-        "description": ""
-      },
-      {
-        "name": "Peas Pulao",
-        "marathi": "",
-        "price": "₹230",
-        "description": ""
-      },
-      {
-        "name": "Steam Rice",
-        "marathi": "",
-        "price": "₹80",
-        "description": ""
-      },
-      {
-        "name": "Jeera Rice",
-        "marathi": "",
-        "price": "₹120",
-        "description": ""
-      },
-      {
-        "name": "Curd Rice",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Palak Rice",
-        "marathi": "",
-        "price": "₹150",
-        "description": ""
-      },
-      {
-        "name": "Ghee Rice",
-        "marathi": "",
-        "price": "₹200",
-        "description": ""
-      },
-      {
-        "name": "Lemon Rice",
-        "marathi": "",
-        "price": "₹190",
-        "description": ""
-      }
-    ],
-    "iceCreamAndDesserts": [
-      {
-        "name": "Ice Cream (Vanilla / Mango / Strawberry)",
-        "marathi": "",
-        "price": "₹90",
-        "description": ""
-      },
-      {
-        "name": "Ice Cream (Pista / Butter Scotch / Kesar Pista)",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Special Sundae",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Vanilla Ice Cream with Hot Chocolate",
-        "marathi": "",
-        "price": "₹150",
-        "description": ""
-      },
-      {
-        "name": "Sizzling Chocolate Brownie with Ice Cream",
-        "marathi": "",
-        "price": "₹220",
-        "description": ""
-      },
-      {
-        "name": "Matka Kulfi",
-        "marathi": "",
-        "price": "₹90",
-        "description": ""
-      }
-    ],
-    "coldBeverages": [
-      {
-        "name": "Lassi (Sweet)",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Lassi (Salted)",
-        "marathi": "",
-        "price": "₹100",
-        "description": ""
-      },
-      {
-        "name": "Mango Lassi",
-        "marathi": "",
-        "price": "₹120",
-        "description": ""
-      },
-      {
-        "name": "Butter Milk",
-        "marathi": "",
-        "price": "₹65",
-        "description": ""
-      },
-      {
-        "name": "Masala Butter Milk",
-        "marathi": "",
-        "price": "₹75",
-        "description": ""
-      },
-      {
-        "name": "Fresh Lime Soda",
-        "marathi": "",
-        "price": "₹60",
-        "description": ""
-      },
-      {
-        "name": "Fresh Lime Water",
-        "marathi": "",
-        "price": "₹50",
-        "description": ""
-      }
-    ],
-    "mastaniAndFalooda": [
-      {
-        "name": "Mango Mastani",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Dry Fruit Mastani",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      },
-      {
-        "name": "Chocolate Badam Mastani",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Mango Tree Special Mastani",
-        "marathi": "",
-        "price": "₹280",
-        "description": ""
-      },
-      {
-        "name": "Rose Falooda",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Kesar Falooda",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Royal Falooda",
-        "marathi": "",
-        "price": "₹240",
-        "description": ""
-      },
-      {
-        "name": "Mango Tree Special Falooda",
-        "marathi": "",
-        "price": "₹260",
-        "description": ""
-      }
-    ],
-    "sizzlers": [
-      {
-        "name": "Veg Sizzler",
-        "marathi": "",
-        "price": "₹390",
-        "description": ""
-      },
-      {
-        "name": "Paneer Sizzler",
-        "marathi": "",
-        "price": "₹430",
-        "description": ""
-      }
-    ]
+  "papadSaladRaita": [
+    { "name": "Roasted Papad", "marathi": "", "price": "₹30", "description": "" },
+    { "name": "Fried Papad", "marathi": "", "price": "₹40", "description": "" },
+    { "name": "Masala Papad", "marathi": "", "price": "₹60", "description": "" },
+    { "name": "Green Salad", "marathi": "", "price": "₹100", "description": "" },
+    { "name": "Boondi Raita", "marathi": "", "price": "₹110", "description": "" },
+    { "name": "Vegetable Raita", "marathi": "", "price": "₹100", "description": "" },
+    { "name": "Pineapple Raita", "marathi": "", "price": "₹120", "description": "" },
+    { "name": "Curd Bowl", "marathi": "", "price": "₹100", "description": "" }
+  ],
+  "vegStarters": [
+    { "name": "Cheese Cherry Pineapple", "marathi": "", "price": "₹180", "description": "" },
+    { "name": "Finger Chips", "marathi": "", "price": "₹180", "description": "" },
+    { "name": "Chana Garlic Fry", "marathi": "", "price": "₹230", "description": "" },
+    { "name": "Koliwada", "marathi": "", "price": "₹250", "description": "" },
+    { "name": "Garlic Fry", "marathi": "", "price": "₹200", "description": "" },
+    { "name": "Paneer Pakoda", "marathi": "", "price": "₹220", "description": "" },
+    { "name": "Mix Veg Pakoda", "marathi": "", "price": "₹190", "description": "" },
+    { "name": "Cheese Pakoda", "marathi": "", "price": "₹230", "description": "" },
+    { "name": "Cashew Nuts Fry", "marathi": "", "price": "₹270", "description": "" },
+    { "name": "Green Peas Jeera Garlic Butter Fry", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Urwal", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Kothimbir Kabab", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Cheese Corn Tikki", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Kasturi Tikki", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Paneer Ghee Roast", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Paneer Pepper Ghee Roast", "marathi": "", "price": "₹330", "description": "" }
+  ],
+  "vegTandoorStarters": [
+    { "name": "Hara Bhara Kabab", "marathi": "", "price": "₹210", "description": "" },
+    { "name": "Stuffed Mushroom", "marathi": "", "price": "₹260", "description": "" },
+    { "name": "Veg Seekh Kabab", "marathi": "", "price": "₹260", "description": "" },
+    { "name": "Mushroom Kalimiri", "marathi": "", "price": "₹270", "description": "" },
+    { "name": "Matka Paneer", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Veg Platter", "marathi": "", "price": "₹900", "description": "" },
+    { "name": "Paneer Tikka Dry", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Banjara Tikka", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Pahadi Tikka", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Lasuni Tikka", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Pudina Tikka", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Shole Kabab", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Paneer Angara Kabab", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Paneer Malai Kabab", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Paneer Lajawab Kabab", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Paneer Rogani Kabab", "marathi": "", "price": "₹330", "description": "" },
+    { "name": "Nawabi Sheek Kabab", "marathi": "", "price": "₹340", "description": "" },
+    { "name": "Paneer Two In One Tikka", "marathi": "", "price": "₹350", "description": "" }
+  ],
+  "chineseStarters": [
+    { "name": "Veg Manchurian (Dry)", "marathi": "", "price": "₹250", "description": "" },
+    { "name": "Veg Manchurian (Gravy)", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Veg 65 (Dry)", "marathi": "", "price": "₹250", "description": "" },
+    { "name": "Veg 65 (Gravy)", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Veg Ginger Garlic", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Veg Crispy", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Baby Corn Crispy", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Baby Corn Manchurian (Dry)", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Baby Corn Manchurian (Gravy)", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Mushroom Manchurian (Dry)", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Mushroom Manchurian (Gravy)", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Mushroom Chilly (Dry)", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Mushroom Chilly (Gravy)", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Paneer Chilly (Dry)", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Chilly (Gravy)", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Paneer Manchurian (Dry)", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Manchurian (Gravy)", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Paneer Satay", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Paneer 65", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Crispy", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Paneer Hot Pan", "marathi": "", "price": "₹330", "description": "" },
+    { "name": "Veg Spring Roll", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Coriander", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Veg Coriander", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Paneer Thread", "marathi": "", "price": "₹350", "description": "" }
+  ],
+  "vegSoups": [
+    { "name": "Veg Manchow", "marathi": "", "price": "₹130", "description": "" },
+    { "name": "Veg Hot & Sour", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "Veg Sweet Corn", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "Lemon Coriander", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "Veg Clear", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "Cream Tomato Soup", "marathi": "", "price": "₹130", "description": "" },
+    { "name": "Cream of Veg", "marathi": "", "price": "₹130", "description": "" },
+    { "name": "Cream of Mushroom", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "Cream of Palak", "marathi": "", "price": "₹130", "description": "" },
+    { "name": "Wonton Hot Soup", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "Lung Fung Soup", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "French Onion Soup", "marathi": "", "price": "₹140", "description": "" },
+    { "name": "Minestrone Soup", "marathi": "", "price": "₹140", "description": "" }
+  ],
+  "indianShorba": [
+    { "name": "Tomato Shorba", "marathi": "", "price": "₹110", "description": "" }
+  ],
+  "chineseNoodlesAndRice": [
+    { "name": "Veg Hakka Noodles", "marathi": "", "price": "₹220", "description": "" },
+    { "name": "Shanghai Noodles", "marathi": "", "price": "₹240", "description": "" },
+    { "name": "Chilli Garlic Noodles", "marathi": "", "price": "₹240", "description": "" },
+    { "name": "Sezwan Noodles", "marathi": "", "price": "₹230", "description": "" },
+    { "name": "Sezwan Rice", "marathi": "", "price": "₹250", "description": "" },
+    { "name": "Triple Sezwan Noodles", "marathi": "", "price": "₹270", "description": "" },
+    { "name": "Triple Sezwan Rice", "marathi": "", "price": "₹270", "description": "" },
+    { "name": "Veg Fried Rice", "marathi": "", "price": "₹220", "description": "" },
+    { "name": "Mushroom Fried Rice", "marathi": "", "price": "₹270", "description": "" }
+  ],
+  "mangoTreeSpecialVeg": [
+    { "name": "Mango Tree Special", "marathi": "", "price": "₹360", "description": "" },
+    { "name": "Veg Chingari", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Aloo Khusnuma", "marathi": "", "price": "₹260", "description": "" },
+    { "name": "Cheese Angoori", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Veg 65 Masala", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Veg Laziz Paneer", "marathi": "", "price": "₹310", "description": "" },
+    { "name": "Veg Lahori", "marathi": "", "price": "₹330", "description": "" },
+    { "name": "Veg Mumtaj", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Veg Shubnam", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Chak De Veg", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Subzi Dhoom", "marathi": "", "price": "₹310", "description": "" },
+    { "name": "Paneer Stick Masala", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Paneer Ka Shola", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Alu Sultani Curry", "marathi": "", "price": "₹260", "description": "" },
+    { "name": "Balti Achari Veg", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Subji Pahadi Madira", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Veg Kukkad", "marathi": "", "price": "₹330", "description": "" }
+  ],
+  "sweetSubji": [
+    { "name": "Malai Kofta", "marathi": "", "price": "₹310", "description": "" },
+    { "name": "Kaju Curry", "marathi": "", "price": "₹330", "description": "" }
+  ],
+  "dalItems": [
+    { "name": "Dal Fry", "marathi": "", "price": "₹160", "description": "" },
+    { "name": "Dal Kolhapuri", "marathi": "", "price": "₹170", "description": "" },
+    { "name": "Dal Tadkewali", "marathi": "", "price": "₹175", "description": "" },
+    { "name": "Dal Palak", "marathi": "", "price": "₹170", "description": "" }
+  ],
+  "subjiKiPeshkash": [
+    { "name": "Alu Gobi Masala", "marathi": "", "price": "₹250", "description": "" },
+    { "name": "Veg Maratha", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Mushroom Handi", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Mushroom Masala", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Veg Handi", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Veg Kofta", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Veg Kolhapuri", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Veg Bhoona", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Veg Jalfrezi", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Kaju Masala", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Veg Chili Mili", "marathi": "", "price": "₹290", "description": "" },
+    { "name": "Veg Patiyala", "marathi": "", "price": "₹310", "description": "" },
+    { "name": "Queen of Veg", "marathi": "", "price": "₹330", "description": "" },
+    { "name": "Veg Diwani Handi", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Veg Tawa Punjabi", "marathi": "", "price": "₹330", "description": "" }
+  ],
+  "paneerSpecialities": [
+    { "name": "Paneer Masala", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Paneer Butter Masala", "marathi": "", "price": "₹350", "description": "" },
+    { "name": "Paneer Tikka Masala", "marathi": "", "price": "₹350", "description": "" },
+    { "name": "Paneer Kadhai", "marathi": "", "price": "₹330", "description": "" },
+    { "name": "Paneer Multhani", "marathi": "", "price": "₹300", "description": "" },
+    { "name": "Paneer Patiyala", "marathi": "", "price": "₹320", "description": "" },
+    { "name": "Paneer Chatpata", "marathi": "", "price": "₹330", "description": "" },
+    { "name": "Paneer Chingari", "marathi": "", "price": "₹340", "description": "" },
+    { "name": "Paneer Khurchan", "marathi": "", "price": "₹360", "description": "" },
+    { "name": "Paneer Aflatun", "marathi": "", "price": "₹350", "description": "" },
+    { "name": "Multi Layer Paneer Masala", "marathi": "", "price": "₹350", "description": "" },
+    { "name": "Paneer Bhurji", "marathi": "", "price": "₹350", "description": "" }
+  ],
+  "rotiNaanParatha": [
+    { "name": "Roti", "marathi": "", "price": "₹30", "description": "" },
+    { "name": "Wheat Roti", "marathi": "", "price": "₹30", "description": "" },
+    { "name": "Butter Roti", "marathi": "", "price": "₹40", "description": "" },
+    { "name": "Chapati", "marathi": "", "price": "₹20", "description": "" },
+    { "name": "Butter Chapati", "marathi": "", "price": "₹25", "description": "" },
+    { "name": "Missi Roti", "marathi": "", "price": "₹60", "description": "" },
+    { "name": "Naan", "marathi": "", "price": "₹60", "description": "" },
+    { "name": "Butter Naan", "marathi": "", "price": "₹80", "description": "" },
+    { "name": "Garlic Naan", "marathi": "", "price": "₹120", "description": "" },
+    { "name": "Cheese Naan", "marathi": "", "price": "₹110", "description": "" },
+    { "name": "Cheese Garlic Naan", "marathi": "", "price": "₹160", "description": "" },
+    { "name": "Kulcha Plain", "marathi": "", "price": "₹60", "description": "" },
+    { "name": "Kulcha Butter", "marathi": "", "price": "₹70", "description": "" },
+    { "name": "Garlic Paratha", "marathi": "", "price": "₹160", "description": "" },
+    { "name": "Alu Paratha", "marathi": "", "price": "₹160", "description": "" },
+    { "name": "Methi Paratha", "marathi": "", "price": "₹160", "description": "" },
+    { "name": "Gobi Paratha", "marathi": "", "price": "₹160", "description": "" },
+    { "name": "Pudina Paratha", "marathi": "", "price": "₹160", "description": "" },
+    { "name": "Wheat Lacha Paratha", "marathi": "", "price": "₹70", "description": "" },
+    { "name": "Butter Wheat Lachha Paratha", "marathi": "", "price": "₹80", "description": "" },
+    { "name": "Basket Roti", "marathi": "", "price": "₹600", "description": "" },
+    { "name": "Bhakari", "marathi": "", "price": "₹40", "description": "" },
+    { "name": "Butter Bhakari", "marathi": "", "price": "₹50", "description": "" }
+  ],
+  "ricePulavBiryani": [
+    { "name": "Matka Dum Biryani", "marathi": "", "price": "₹330", "description": "Rich aromatic biryani made in ghee & served in a matka for authentic taste" },
+    { "name": "Veg Biryani", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Dal Khichadi", "marathi": "", "price": "₹220", "description": "" },
+    { "name": "Dal Khichadi Tadka", "marathi": "", "price": "₹230", "description": "" },
+    { "name": "Veg Pulav", "marathi": "", "price": "₹220", "description": "" },
+    { "name": "Pease Pulav", "marathi": "", "price": "₹230", "description": "" },
+    { "name": "Steam Rice (Half)", "marathi": "", "price": "₹80", "description": "" },
+    { "name": "Steam Rice (Full)", "marathi": "", "price": "₹120", "description": "" },
+    { "name": "Jeera Rice (Half)", "marathi": "", "price": "₹100", "description": "" },
+    { "name": "Jeera Rice (Full)", "marathi": "", "price": "₹150", "description": "" },
+    { "name": "Curd Rice", "marathi": "", "price": "₹150", "description": "" },
+    { "name": "Palak Rice", "marathi": "", "price": "₹200", "description": "" },
+    { "name": "Ghee Rice", "marathi": "", "price": "₹190", "description": "" },
+    { "name": "Lemon Rice", "marathi": "", "price": "₹200", "description": "" }
+  ],
+  "iceCreamAndDesserts": [
+    { "name": "Ice Cream (Vanilla / Mango / Strawberry)", "marathi": "", "price": "₹90", "description": "" },
+    { "name": "Ice Cream (Pista / Butter Scotch / Kesar Pista)", "marathi": "", "price": "₹100", "description": "" },
+    { "name": "Special Sunday", "marathi": "", "price": "₹260", "description": "" },
+    { "name": "Vanilla Ice Cream with Hot Chocolate", "marathi": "", "price": "₹150", "description": "" },
+    { "name": "Sizzling Chocolate Brownie with Ice Cream", "marathi": "", "price": "₹220", "description": "" },
+    { "name": "Matka Kulfi", "marathi": "", "price": "₹90", "description": "" }
+  ],
+  "sizzlers": [
+    { "name": "Veg Sizzler", "marathi": "", "price": "₹390", "description": "" },
+    { "name": "Paneer Sizzler", "marathi": "", "price": "₹430", "description": "" }
+  ],
+  "coldBeverages": [
+    { "name": "Lassi (Sweet)", "marathi": "", "price": "₹100", "description": "" },
+    { "name": "Lassi (Salted)", "marathi": "", "price": "₹100", "description": "" },
+    { "name": "Mango Lassi", "marathi": "", "price": "₹120", "description": "" },
+    { "name": "Butter Milk", "marathi": "", "price": "₹65", "description": "" },
+    { "name": "Masala Butter Milk", "marathi": "", "price": "₹75", "description": "" },
+    { "name": "Fresh Lime Soda", "marathi": "", "price": "₹60", "description": "" },
+    { "name": "Fresh Lime Water", "marathi": "", "price": "₹50", "description": "" }
+  ],
+  "mastaniAndFalooda": [
+    { "name": "Mango Mastani", "marathi": "", "price": "₹240", "description": "" },
+    { "name": "Dry Fruit Mastani", "marathi": "", "price": "₹260", "description": "" },
+    { "name": "Chocolate Badam Mastani", "marathi": "", "price": "₹240", "description": "" },
+    { "name": "Mango Tree Special Mastani", "marathi": "", "price": "₹280", "description": "" },
+    { "name": "Rose Falooda", "marathi": "", "price": "₹240", "description": "" },
+    { "name": "Kesar Falooda", "marathi": "", "price": "₹240", "description": "" },
+    { "name": "Royal Falooda", "marathi": "", "price": "₹240", "description": "" },
+    { "name": "Mango Tree Special Falooda", "marathi": "", "price": "₹260", "description": "" }
+  ]
+}
+
   },
   "nonVeg": {
     "papadSaladRaita": [
