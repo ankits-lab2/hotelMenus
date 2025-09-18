@@ -183,7 +183,7 @@
       { "name": "Veg Pulav", "marathi": "", "price": "₹220", "description": "" },
       { "name": "Paneer Pulav", "marathi": "", "price": "₹230", "description": "" },
       { "name": "Peas Pulav", "marathi": "", "price": "₹210", "description": "" },
-      { "name": "Steam Rice", "marathi": "", "price": ["₹90", "₹130"], "description": "" },
+      { "name": "Steam Rice (Half/Full)", "marathi": "", "price": "₹90/130", "description": "" },
       { "name": "Half Jeera Rice", "marathi": "", "price": "₹110", "description": "" },
       { "name": "Jeera Rice", "marathi": "", "price": "₹150", "description": "" },
       { "name": "Curd Rice", "marathi": "", "price": "₹200", "description": "" },
